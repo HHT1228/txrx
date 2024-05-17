@@ -1,0 +1,7 @@
+package:
+  name: txrx
+  authors:
+    - "Ho Tin Hung <hohung@student.ethz.ch>"
+
+export_include_dirs:
+  - include
